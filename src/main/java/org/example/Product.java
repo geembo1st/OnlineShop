@@ -12,7 +12,7 @@ public class Product implements Comparable<Product> {
     }
 
     public double getPrice() {
-        return price ;
+        return price;
     }
 
     @Override
